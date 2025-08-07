@@ -21,7 +21,7 @@ P - Toggle splitting into chunks
 
 # Idea:
 
-🇬🇧 English:
+# 🇬🇧 English:
 The heightmap is loaded from an image.  
 The height of each vertex is computed based on the grayscale intensity of pixels  
 (ref: https://blogs.igalia.com/itoral/2016/10/13/opengl-terrain-renderer-rendering-the-terrain-mesh/).
@@ -47,7 +47,7 @@ Normal mapping is calculated using tangent, bitangent, and normal vectors
 The lighting model used is basic **Lambertian diffuse** shading.
 
 
-🇷🇸 Srpski:
+# 🇷🇸 Srpski:
 Height mapa se ucitava sa slike.
 Visina vertex-a se racuna u odnosu na intenzitet pixela sa slike ( ref: https://blogs.igalia.com/itoral/2016/10/13/opengl-terrain-renderer-rendering-the-terrain-mesh/ ).
 Height mapa je organizovana u chunk-ove koji sluze da bi se lakse implementirao LOD (level of detail).
