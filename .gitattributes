@@ -1,0 +1,7 @@
+include/GLFW/** linguist-vendored
+include/KHR/** linguist-vendored
+include/glad/** linguist-vendored
+include/stb_*.h linguist-vendored
+include/math_3d.h linguist-vendored
+src/glad/** linguist-vendored
+res/models/*.obj linguist-vendored
