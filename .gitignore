@@ -1,0 +1,20 @@
+# Build artifacts
+bin/
+obj/
+logs/
+*.o
+*.out
+*.exe
+
+# Code::Blocks generated files
+*.depend
+*.layout
+*.cscope_file_list
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
